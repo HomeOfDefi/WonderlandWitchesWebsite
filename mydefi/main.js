@@ -27,7 +27,7 @@ var swiper = new Swiper('.roadmap-slider', {
     spaceBetween: 20,
     centeredSlides: true,
     autoplay: {
-        delay:5000,
+        delay:7500,
         disableOnInteraction: false,
     },
     loop:true,
